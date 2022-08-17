@@ -1,4 +1,4 @@
-# Givemeapy
+# GiveMeAPy
 questo è il progetto base per lo studio della sincronizzazione
 tra Vs Code e Github
 conterrà esempi di codice
