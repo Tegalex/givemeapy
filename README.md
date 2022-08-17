@@ -4,6 +4,7 @@
 	> Iniziare a fare un passo alla volta, ogni giorno imparare un millimetro  in più di ieri
 
 - La sincronizzazione avverrà dall'uso di Vs Code, effettuando il commit verso Github.
+
 **Versione Vs Code: 
 Versione: 1.70.1 (user setup)
 Commit: 6d9b74a70ca9c7733b29f0456fd8195364076dda
