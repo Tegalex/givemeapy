@@ -1,6 +1,6 @@
 # GiveMeAPython
 
-	> PyScript is a framework that allows users to create rich Python applications in the browser using HTML's interface and the power of Pyodide, WASM, and modern web technologies. The PyScript framework provides users at every experience level with access to an expressive, easy-to-learn programming language with countless applications.
+PyScript is a framework that allows users to create rich Python applications in the browser using HTML's interface and the power of Pyodide, WASM, and modern web technologies. The PyScript framework provides users at every experience level with access to an expressive, easy-to-learn programming language with countless applications.
 
 What is PyScript? Well, here are some of the core components:
 Python in the browser: Enable drop-in content, external file hosting, and application hosting without the reliance on server-side configuration
